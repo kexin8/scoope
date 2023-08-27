@@ -7,7 +7,7 @@
         "JDK": "java/openjdk"
     },
     "url": "https://dlcdn.apache.org/maven/maven-3/3.8.8/binaries/apache-maven-3.8.8-bin.zip",
-    "hash": "sha512:4723b1d6fdc39603b6453944fe0bf7bb5d2e4e50904aa977b28238d225d33bb3b44c5935dec5b7ac2a8f7acdd0d1cc01da25020163255f273a9937753cb117c4",
+    "hash": "sha512:aa7d431c07714c410e53502b630f91fc22d2664d5974a413471a2bd4fca9c31f98fbc397d613b7c3e31d3615a9f18487867975b1332462baf7d6ca58ef3628f9",
     "extract_dir": "apache-maven-3.8.8",
     "env_add_path": "bin",
     "persist": [
